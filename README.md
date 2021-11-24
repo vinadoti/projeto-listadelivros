@@ -1,5 +1,7 @@
 # Projeto web usando Flask
 
+<img align="center" alt="Vivi-telaindex"  width="90%" src="https://github.com/vinadoti/projeto-listadelivros/blob/master/static/css/assets/listadelivros.png">
+
 Projeto realizado durante a disciplina de *linguagem de programação* do curso de Análise e desenvolvimento de sistemas pela Fatec Rio Preto
 
 ---
@@ -11,9 +13,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <div style="display: inline_block">
 	<img align="center" alt="Vivi-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	<img align="center" alt="Vivi-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vivi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vivi-Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg">
-  <img align="center" alt="Vivi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg">
+  	<img align="center" alt="Vivi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  	<img align="center" alt="Vivi-Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/flask/flask-original.svg">
+  	<img align="center" alt="Vivi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg">
 </div>
 
 ---
