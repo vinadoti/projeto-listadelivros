@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!--===== CSS =====-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/create.css') }}">
+
+    <!--ICONS-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/assets/style.css') }}" />
+
+    
+    <title>Cadastrando novo livro</title>
+</head>
+
+<body>
+    <div class="l-form">
+
+        <form action="/save" method="POST" class="form">
+
+            <div class="return">
+                <a href="/" class="return"> <i class="icon-arrow-left-circle"> </i> </a>
+            </div>
+
+            <h1 class="form__title">Novo livro</h1>
+
+            <div class="form__div">
+                <input type="text" class="form__input" placeholder=" " name="titulo">
+                <label for="" class="form__label">Título do livro</label>
+            </div>
+
+            <div class="form__div">
+                <input type="text" class="form__input" placeholder=" " name="autor">
+                <label for="" class="form__label">Autor do livro</label>
+            </div>
+
+            <div class="form__div">
+                <input type="text" class="form__input" placeholder=" " name="categoria">
+                <label for="" class="form__label">Categoria do livro</label>
+            </div>
+
+            <input type="submit" class="form__button" value="Salvar">
+
+        </form>
+    </div>
+</body>
+
+</html>

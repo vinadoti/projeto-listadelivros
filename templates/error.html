@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html lang="pt-br" dir="ltr">
+
+<head>
+   <meta charset="utf-8">
+   <title>Error Page </title>
+   <link rel="stylesheet" href="{{ url_for('static', filename='css/error.css') }}">
+</head>
+
+<body>
+   <div id="error-page">
+      <div class="content">
+         <h2 class="header" data-text="204">
+            204
+         </h2>
+         <h4 data-text="Opps! Page not found">
+            Opps! Ocorreu um erro
+         </h4>
+         <p>
+            Desculpe, a página que você está procurando não existe. <br> Se você acha que algo está quebrado, relate um
+            problema.
+         </p>
+         <div class="btns">
+            <a href="/">Voltar</a>
+            <a
+               href="https://api.whatsapp.com/send?phone=5517991296015&text=Olá%20tive%20um%20problema%20com%20seu%20projeto%20web%20Minhalistadelivros%20Você%20pode%20me%20ajudar?">
+               Reportar problema </a>
+         </div>
+      </div>
+   </div>
+</body>
+
+</html>
